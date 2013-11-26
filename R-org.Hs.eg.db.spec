@@ -2,13 +2,13 @@
 
 Summary:	Genome wide annotation for Human
 Name:		R-%{packname}
-Version:	2.8.0
-Release:	2
+Version:	2.10.1
+Release:	1
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/annotation/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	1894f06a4393fee73571915477e5aed4
-URL:		http://www.bioconductor.org/packages/2.11/data/annotation/html/org.Hs.eg.db.html
+# Source0-md5:	aae92ab4dc66629fd30571ab15bb6dda
+URL:		http://www.bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html
 BuildRequires:	R-AnnotationDbi
 BuildRequires:	R
 BuildRequires:	texlive-latex
