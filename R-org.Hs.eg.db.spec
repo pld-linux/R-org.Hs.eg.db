@@ -3,7 +3,7 @@
 Summary:	Genome wide annotation for Human
 Name:		R-%{packname}
 Version:	2.8.0
-Release:	1
+Release:	2
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/annotation/src/contrib/%{packname}_%{version}.tar.gz
